@@ -4,7 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 
-namespace R5T.E0024.T001
+namespace R5T.T0030
 {
     // Source: https://stackoverflow.com/a/50461641/10658484
     public static class ProcessExtensions
